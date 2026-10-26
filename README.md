@@ -62,6 +62,9 @@ NEXUS AI follows a systematic process to transform a research query into a struc
 
 `User Query → Web Search → Data Analysis → Report Generation → Language Selection → Export`
 
+![ml](https://github.com/rushikeshwalode06-cod/Multi-Agent-AI-Research-Report-Generator/blob/main/graph_image_Research_genrator.png?raw=true)
+
+---
 
 ## 💡 Use Cases
 
