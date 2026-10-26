@@ -48,6 +48,23 @@ NEXUS AI follows a multi-agent research workflow:
 5. 📥 **Report Export** — Allows users to export the final report in supported formats.
 
 ---
+## ⚙️ Processes
+
+NEXUS AI follows a systematic process to transform a research query into a structured, AI-generated report.
+
+- 📝 **Input Processing** — Accepts the user's research topic and preferred language.
+- 🔍 **Information Retrieval** — Collects relevant information using DuckDuckGo Search.
+- 🧠 **AI-Powered Analysis** — Processes research findings to identify key information and insights.
+- ✍️ **Content Generation** — Creates a structured report using specialized AI agents.
+- 🌐 **Multilingual Processing** — Generates content in English, Hindi, or Marathi.
+- 📄 **Report Formatting** — Organizes the generated content into a readable format.
+- 📥 **Output Export** — Provides options to download reports in PDF, Markdown, and TXT formats.
+
+### 🔄 Process Flow
+
+`User Query → Web Search → Data Analysis → Report Generation → Language Selection → Export`
+
+---
 
 ## 💡 Use Cases
 
