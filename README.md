@@ -141,7 +141,6 @@ NEXUS AI – Multi-Agent Research Studio demonstrates how artificial intelligenc
 
 Overall, NEXUS AI represents a practical application of agent-based AI for improving research efficiency, information organization, and automated content generation.
 
+![ml](https://github.com/rushikeshwalode06-cod/Multi-Agent-AI-Research-Report-Generator/blob/main/thumbnail_image.png?raw=true)
 
-### 💙 Built with Python, AI, and a passion for innovation.
-
-**NEXUS AI — Research Smarter. Analyze Better. Create Faster.** 🚀
+---
